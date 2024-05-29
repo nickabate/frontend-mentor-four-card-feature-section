@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 15px
+}
+
+p {
+  @apply text-neutral-20
+}
+
+h1, h2, h3, h4 {
+  @apply text-neutral-10
+}
+
+@layer utilities {
+  .flexCenter {
+    @apply flex items-center justify-center;
+  }
+}
