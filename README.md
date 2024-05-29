@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View on Frontend Mentor]()
-- Live Site URL: [View on Vercel]()
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-nextjstailwindtypescript-hHxZAy9nmH)
+- Live Site URL: [View on Vercel](https://frontend-mentor-four-card-feature-section-nick-abate.vercel.app/)
 
 ## My process
 
